@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CosmosConnectionIssue": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
